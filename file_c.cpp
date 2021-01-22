@@ -1,5 +1,5 @@
 #include<iosteam>
 
 int main(){
-  std::cout << "Hello" << std::endl;
+  std::cout << "World" << std::endl;
 }
