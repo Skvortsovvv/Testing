@@ -5,6 +5,6 @@ int sum(std::vector<int> vec){
 	for(auto& i: vec){
 		j+=i;
 	}
-	return j;
+	return j + 1;
 }
 
