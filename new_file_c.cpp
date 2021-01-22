@@ -13,6 +13,6 @@ int sum(const std::vector<int>& vec) const{
 	for(coonst auto& i: vec){
 		j+=i;
 	}
-	return j + 1;
+	return j;
 }
 
